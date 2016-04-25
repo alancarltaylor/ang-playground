@@ -18,3 +18,8 @@
 ##Add input field
 1. copy and paste bootstrap horizontal form, edit a little
 1. instead of having a form with class form horizontal, put it inside of a div
+
+##hooked up a model and displayed it
+1. added ng-model='name' to input
+1. added {{name}} to my hello label
+1. displays what user types in field dynamically
