@@ -1,5 +1,10 @@
 #README
 
+
+##get this running
+1. fork clone
+1. 'npm start'
+
 ### started this repo by:
 
 1. mkdir ang-playground
